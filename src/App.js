@@ -31,7 +31,7 @@ const App = () => {
 
   return (
     <AppContainer>
-      <Heading>Fund Data</Heading>
+      <Heading>Mutual Fund Tracker</Heading>
       <InputForm onSubmit={handleData} />
       {data && <ResultTable data={data} />}
     </AppContainer>
