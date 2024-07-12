@@ -11,7 +11,8 @@ const AppContainer = styled.div`
   background-color: #f0f9ff; /* Light blue background */
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
-`;
+  height: 550px;
+  `;
 
 const Heading = styled.h1`
   text-align: center;
